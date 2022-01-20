@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap");
+header {
+  background-color: gray;
+  color: white;
+  display: flex;
+  justify-content: space-between; }
+  header ul {
+    display: flex; }
+    header ul li {
+      list-style: none;
+      margin: 10px; }
+
+.contenedor {
+  background-color: #4F86C6; }
+  .contenedor .titulo {
+    color: violet; }
+    .contenedor .titulo:hover {
+      color: white; }
+  .contenedor:hover {
+    background-color: coral; }

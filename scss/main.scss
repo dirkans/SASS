@@ -1,0 +1,11 @@
+// 3 - Variables
+//
+@import './variables/variables';
+@import './variables/fuentes';
+
+// Importaciones / Particiones
+// Todo archivo que no sea el main, se tiene que llamar con _ adelante y la extension .scss
+
+@import './utilidades/header';
+
+@import './secciones/index';

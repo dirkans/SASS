@@ -1,0 +1,13 @@
+// 1- Anidacion
+.contenedor{
+    background-color: $azul;
+    .titulo{
+        color:violet;
+        &:hover{
+            color:white;
+        }
+    }
+    &:hover{
+        background-color: coral;
+    }
+}
